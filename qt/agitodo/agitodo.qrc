@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/error.html</file>
+        <file>res/icon-128.png</file>
+        <file>res/index.html</file>
+        <file>res/license.txt</file>
+        <file>res/ok.html</file>
+        <file>res/script.js</file>
+        <file>res/thirdparties.txt</file>
+    </qresource>
+</RCC>

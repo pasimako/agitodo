@@ -1,0 +1,17 @@
+Third-party software
+
+⚫ This software uses the Qt GUI Toolkit 5.0, which is covered by the following license:
+
+Qt is available under the LGPL (version 2.1).
+
+The Qt Toolkit is Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies) and other contributors.
+
+Contact: http://www.qt-project.org/legal
+
+Reference: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+⚫ jQuery & jQuery Mobile are copyright (c) 2010, 2014 jQuery Foundation, Inc. | jquery.org/license
+
+⚫ CryptoJS is copyright (c) 2009-2013 Jeff Mott | code.google.com/p/crypto-js/wiki/License
+
+⚫ XDate is copyright (c) 2011 Adam Shaw, http://arshaw.com/xdate/ | github.com/arshaw/xdate/blob/master/MIT-LICENSE.txt

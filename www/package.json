@@ -1,0 +1,16 @@
+{
+    "name": "agitodo",
+    "version": "1.6.0",
+    "author": "My Name",
+    "license" : "GPL-3.0",
+    "private": true,
+    "dependencies": {
+        "express": "4.x",
+        "cookie-parser": "",
+        "body-parser": "",
+        "morgan": "",
+        "mysql": "",
+        "nodemailer": "",
+        "nodemailer-sendmail-transport": ""
+    }
+}

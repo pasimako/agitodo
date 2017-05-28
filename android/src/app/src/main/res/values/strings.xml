@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agitodo</string>
+    <string name="dialog_copyright">Copyright &#169; 2013</string>
+    <string name="dialog_thirdparty">&#8226; jQuery &#38; jQuery Mobile are copyright
+		(c) 2010, 2014 jQuery Foundation, Inc. | jquery.org/license\n&#8226;
+		CryptoJS is copyright (c) 2009-2013 Jeff Mott |
+		code.google.com/p/crypto-js/wiki/License\n&#8226; XDate is copyright
+		(c) 2011 Adam Shaw, http://arshaw.com/xdate/ |
+		github.com/arshaw/xdate/blob/master/MIT-LICENSE.txt
+	</string>
+    <string name="dialog_ok">Ok</string>
+</resources>
