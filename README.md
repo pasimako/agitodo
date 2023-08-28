@@ -1,12 +1,12 @@
-## Synopsis
+## About
 
-Agitodo is a cross-platform To-Do list / Calendar application. The core application is developed in JavaScript (jQuery Mobile) and can be build as a web (Node.js), mobile (Android-Webview), or desktop (Windows/macOS/Linux Qt-Webview) application. Protecting user's privacy is built-in to the application - data are stored encrypted in HTML5 localStorage and can be optionally saved (encrypted) in Dropbox/Google Drive/hubiC. Cloud storage services can also be used to synchronize user's data between on all platforms. Furthermore, the application integrates with Gmail for emailing tasks.
+Agitodo is a cross-platform To-Do list / Calendar application. I started working on this project in 2013 and published the first stable version on the Android Store in 2014 as a paid app (under a different name).
 
-I started working on this project in 2013, and published the first stable version on the Android Store in 2014 as a commercial application (under a different name). The application was not successful and was unpublished after a short period of time. I decided to open source this project, since some parts might still be useful to other developers, like the Android & Qt Webviews and the Dropbox/Google Drive/hubiC/Gmail APIs integration.
+The core application is developed in JavaScript (jQuery Mobile) and can be build as a web (Node.js), mobile (Android-Webview), or desktop (Windows/macOS/Linux Qt-Webview) application. Protecting user's privacy is built-in to the application - data are stored encrypted in HTML5 localStorage and can be optionally saved (encrypted) in Dropbox/Google Drive/hubiC. Cloud storage services can also be used to synchronize user's data between on all platforms. Furthermore, the application integrates with Gmail for emailing tasks.
+
+Some parts of the code might still be useful to other projects, such as the Android & Qt Webviews, and Dropbox/Google Drive/hubiC/Gmail APIs integration.
 
 Enjoy!
-
-P. Asimakopoulos (https://ubuverse.com)
 
 ## Screenshots
 
